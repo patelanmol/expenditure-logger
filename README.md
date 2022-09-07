@@ -44,5 +44,5 @@ $ npm i
  cd client
  npm run build
  
- # Prod
+ # Production Build
  npm start
