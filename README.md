@@ -14,6 +14,13 @@ $ npm i
 ```
 
 
+# Usage (run fullstack app on your machine)
+
+## Prerequisites
+- [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
+- [Node](https://nodejs.org/en/download/) ^10.0.0
+- [npm](https://nodejs.org/en/download/package-manager/)
+
 
 # Expenditure-Logger
  change config.env file in config folder
