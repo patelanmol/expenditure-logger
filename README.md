@@ -46,3 +46,23 @@ $ npm i
  
  # Production Build
  npm start
+ 
+ 
+ # Screenshots of this project
+
+User Interface of the Application
+
+![User Interface of the Application](https://i.imgur.com/lmytxEu.png)
+
+
+Transaction Entries in Mongo DB Atlas
+
+![Transaction Entries in Mongo DB Atlas](https://i.imgur.com/WbzrcFb.png)
+
+
+## BUGs or comments
+
+Email Me: anmolpatel2112000@gmail.com (Drop a mail regarding any feedback or query)
+
+
+
